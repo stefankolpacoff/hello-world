@@ -1,2 +1,7 @@
 # My name is Stefan <3
-github exo 
+
+I love pizza with cheese
+
+gorgonzola
+cheddar
+mozzarella
